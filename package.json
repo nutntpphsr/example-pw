@@ -1,0 +1,22 @@
+{
+  "name": "example-pw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutntpphsr/example-pw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutntpphsr/example-pw/issues"
+  },
+  "homepage": "https://github.com/nutntpphsr/example-pw#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1"
+  }
+}
