@@ -2,7 +2,9 @@
   "name": "example-pw",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "tests" : "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nutntpphsr/example-pw.git"
