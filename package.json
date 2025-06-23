@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "tests" : "npm install && npx playwright test"
+    "tests" : "npm install && npx playwright test tests/example.spec.ts --project=chromium"
   },
   "repository": {
     "type": "git",
